@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 🌺 Macchiato
 <table>
 	<tr>
@@ -192,7 +192,7 @@
 	</tr>
 </table>
 </div>
-
+<div align="right">
 🌿 Mocha
 <table>
 	<tr>
@@ -385,3 +385,4 @@
 		<td><code>hsl(240, 23%, 9%)</code></td>
 	</tr>
 </table>
+</div>
