@@ -1,12 +1,11 @@
 <table style="margin: 0 auto; text-align: center;">
-<table>
     <tr>
         <th>Macchiato</th>
         <th>Mocha</th>
     </tr>
     <tr>
         <td>
-            <table>
+            <table style="margin: 0 auto; text-align: center;">
                 <tr>
                     <th></th>
                     <th>Labels</th>
@@ -145,7 +144,7 @@
             </table>
         </td>
         <td>
-            <table>
+            <table style="margin: 0 auto; text-align: center;">
                 <tr>
                     <th></th>
                     <th>Labels</th>
