@@ -109,6 +109,13 @@
           <td><code>rgb(238, 153, 160)</code></td>
           <td><code>hsl(355, 68%, 77%)</code></td>
         </tr>
+        <tr>
+		<td><img src="assets/palette/circles/macchiato_peach.png" width="23"/></td>
+		<td>Peach</td>
+		<td><code>#f5a97f</code></td>
+		<td><code>rgb(245, 169, 127)</code></td>
+		<td><code>hsl(21, 86%, 73%)</code></td>
+	    </tr>
         <!-- Add more rows for Macchiato colors -->
       </table>
     </td>
