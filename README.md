@@ -1,3 +1,4 @@
+<table style="margin: 0 auto; text-align: center;">
 <table>
     <tr>
         <th>Macchiato</th>
