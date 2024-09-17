@@ -1,4 +1,4 @@
-<table style="margin: 0 auto; text-align: center;">
+<div style="display: flex; justify-content: center;">
     <tr>
         <th>Macchiato</th>
         <th>Mocha</th>
