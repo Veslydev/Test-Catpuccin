@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: center;">
     <table>
         <tr>
-            <th>Macchiato</th>
-            <th>Mocha</th>
+            <th>🌺 Macchiato</th>
+            <th>🌿 Mocha</th>
         </tr>
         <tr>
             <td>
