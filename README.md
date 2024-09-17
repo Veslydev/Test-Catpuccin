@@ -1,3 +1,4 @@
+🌺 Macchiato
 <table>
 	<tr>
 		<th></th>
@@ -190,8 +191,8 @@
 	</tr>
 </table>
 
-<details>
-<summary>🌿 Mocha</summary>
+
+🌿 Mocha
 <table>
 	<tr>
 		<th></th>
@@ -383,4 +384,3 @@
 		<td><code>hsl(240, 23%, 9%)</code></td>
 	</tr>
 </table>
-</details>
